@@ -1,0 +1,12 @@
+name  = "misho"
+
+surname = "alibegashvili"
+
+age = "27 age"
+
+height = "height 1.93"
+
+
+
+
+print(name  + " " + surname + " " + str(age) +" "+ str(height)) 
